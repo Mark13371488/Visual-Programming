@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <N1>1</N1>
+  <Num1>1/0=</Num1>
+  <Num2>∞</Num2>
+  <Operation />
+</Config>
